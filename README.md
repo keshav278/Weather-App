@@ -1,4 +1,4 @@
-# A Simple Weather App
+# A Weather App
 
 
 This is a basic weather app made using HTML, CSS and Javascript. The weather details are fetched using the OpenWeatherMap API.
